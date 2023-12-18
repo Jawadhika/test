@@ -3,7 +3,7 @@ SAVE US
 Project Akhir Mata Kuliah Pemrograman Game
 
 
-👋 Anggota Kelompok 1
+👋 Anggota Kelompok
 
 Jawadhika Khoirun Nasa Annafi' (21050974071)
 
